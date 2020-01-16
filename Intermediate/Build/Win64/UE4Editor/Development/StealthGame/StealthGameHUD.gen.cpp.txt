@@ -1,0 +1,10 @@
+C:\Users\AB_Student1\Documents\Unreal Projects\StealthGame\Intermediate\Build\Win64\UE4Editor\Development\StealthGame\Definitions.StealthGame.h
+C:\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\AB_Student1\Documents\Unreal Projects\StealthGame\Source\StealthGame/StealthGameHUD.h
+C:\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
+C:\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
+C:\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
+C:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
+C:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
+c:\users\ab_student1\documents\unreal projects\stealthgame\intermediate\build\win64\ue4editor\inc\stealthgame\StealthGameHUD.generated.h

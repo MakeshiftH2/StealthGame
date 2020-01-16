@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\StealthGame.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{E2AA55C8-83A4-45E4-A0EA-1AFCD970849D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\StealthGame.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\StealthGameEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{7B1B1A16-3873-424A-B2DD-8172CC449D07}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\StealthGame">
+      <UniqueIdentifier>{56C9F664-F1B2-4321-9E5B-A346B1AD76CB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\StealthGame\StealthGame.Build.cs">
+      <Filter>Source\StealthGame</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\StealthGame\StealthGame.cpp">
+      <Filter>Source\StealthGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StealthGame\StealthGame.h">
+      <Filter>Source\StealthGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StealthGame\StealthGameCharacter.cpp">
+      <Filter>Source\StealthGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StealthGame\StealthGameCharacter.h">
+      <Filter>Source\StealthGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StealthGame\StealthGameGameMode.cpp">
+      <Filter>Source\StealthGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StealthGame\StealthGameGameMode.h">
+      <Filter>Source\StealthGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StealthGame\StealthGameHUD.cpp">
+      <Filter>Source\StealthGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StealthGame\StealthGameHUD.h">
+      <Filter>Source\StealthGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StealthGame\StealthGameProjectile.cpp">
+      <Filter>Source\StealthGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StealthGame\StealthGameProjectile.h">
+      <Filter>Source\StealthGame</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source\StealthGame\Public">
+      <UniqueIdentifier>{df1c2c39-25a7-4ec2-9bca-213f70022208}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\StealthGame\Private">
+      <UniqueIdentifier>{538bed3a-fa8d-466d-97c6-2c8beae60928}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\StealthGame\Public\FPSOBJ.h">
+      <Filter>Source\StealthGame\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\StealthGame\Private\FPSOBJ.cpp">
+      <Filter>Source\StealthGame\Private</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

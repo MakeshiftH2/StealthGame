@@ -1,0 +1,20 @@
+C:\Users\AB_Student1\Documents\Unreal Projects\StealthGame\Intermediate\Build\Win64\UE4Editor\Development\StealthGame\Definitions.StealthGame.h
+c:\users\ab_student1\documents\unreal projects\stealthgame\source\stealthgame\StealthGameGameMode.h
+C:\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\AB_Student1\Documents\Unreal Projects\StealthGame\Intermediate\Build\Win64\UE4Editor\Inc\StealthGame\StealthGameGameMode.generated.h
+c:\users\ab_student1\documents\unreal projects\stealthgame\source\stealthgame\StealthGameHUD.h
+C:\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
+C:\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
+C:\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
+C:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
+C:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
+C:\Users\AB_Student1\Documents\Unreal Projects\StealthGame\Intermediate\Build\Win64\UE4Editor\Inc\StealthGame\StealthGameHUD.generated.h
+c:\users\ab_student1\documents\unreal projects\stealthgame\source\stealthgame\StealthGameCharacter.h
+C:\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+C:\Users\AB_Student1\Documents\Unreal Projects\StealthGame\Intermediate\Build\Win64\UE4Editor\Inc\StealthGame\StealthGameCharacter.generated.h

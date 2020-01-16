@@ -1,0 +1,2 @@
+C:\Users\AB_Student1\Documents\Unreal Projects\StealthGame\Intermediate\Build\Win64\UE4Editor\Development\StealthGame\Definitions.StealthGame.h
+c:\users\ab_student1\documents\unreal projects\stealthgame\source\stealthgame\StealthGame.h

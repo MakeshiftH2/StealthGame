@@ -1,0 +1,3 @@
+C:\Users\AB_Student1\Documents\Unreal Projects\StealthGame\Intermediate\Build\Win64\UE4Editor\Development\StealthGame\Definitions.StealthGame.h
+C:\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
